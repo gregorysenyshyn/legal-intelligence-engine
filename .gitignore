@@ -1,0 +1,16 @@
+# Python & Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# macOS & IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Local Runtime State
+.active_case
+*.log

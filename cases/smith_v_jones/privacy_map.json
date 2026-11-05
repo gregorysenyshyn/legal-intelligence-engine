@@ -1,0 +1,13 @@
+{
+  "John Robert Smith": "[CLIENT_APPLICANT]",
+  "John Smith": "[CLIENT_APPLICANT]",
+  "Sarah Marie Jones": "[RESPONDENT_PARTY]",
+  "Sarah Jones": "[RESPONDENT_PARTY]",
+  "Tommy Smith": "[CHILD_1]",
+  "123-456-789": "[SIN_1]",
+  "john@example.com": "[EMAIL_1]",
+  "519-555-0199": "[PHONE_1]",
+  "Guelph Public Library": "[ORG_1]",
+  "Regional Retail Services Inc": "[ORG_2]",
+  "Sunshine Early Learning Centre": "[ORG_3]"
+}

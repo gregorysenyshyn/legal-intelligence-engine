@@ -1,0 +1,6 @@
+# Client Case Git Ignore
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
